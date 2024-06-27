@@ -1,3 +1,5 @@
 target
 .idea
 project
+generated
+test_run_dir
